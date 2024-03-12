@@ -10,7 +10,7 @@ We want to build a model to decide whether to place a buy trade for day d+1 to m
 
 Extracted the daily close prices of Apple stock (sid=’AAPL’) for the year 2023 from the freely available us-stock price data in Quantrocket
 
-## StockTrading Class
+## StockTrading Model
 
 The implementation is structured around a StockTradingModel class, which encapsulates the necessary methods for analyzing market trends, calculating portfolio values, determining transition probabilities, and making buy decisions.Key components include:
 
