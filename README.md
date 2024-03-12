@@ -1,6 +1,6 @@
 # SIGMA WEDGE
 
-This Python implementation aims to provide insights and recommendations for stock trading decisions based on historical data analysis and pre-specified logic. The model focuses on daily closing prices of Apple (AAPL) stock for the year 2023, sourced from Quantrocket.
+This aims to provide insights and recommendations for stock trading decisions based on historical data analysis and pre-specified logic. The model focuses on daily closing prices of Apple (AAPL) stock for the year 2023, sourced from Quantrocket.
 
 ### Goal
 
